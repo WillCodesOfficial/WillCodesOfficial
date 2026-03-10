@@ -1,13 +1,9 @@
 ## Hey there 👋
 
 ## I'm Will, a new - intermediate coder and programmer
-
 ## I create anything and everything that comes to my head
-
 ## My main tech stack is Visual Studios (Python), and I'm learning JavaScript
-
 ## I concurrently play Mincraft, and am ranked lt3 crystal (Ht3 soon hopefully), and ht4 in sword, and pot
-
 ## I have made a few projects on Mincraft, some for servers, some for personal use
 
 
